@@ -1,4 +1,4 @@
-## Hello! I' Cláudia Santana.
+## Olá! Eu sou a Cláudia Santana.
 
 <!--
 **claudiasanttana/claudiasanttana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
