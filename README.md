@@ -1,6 +1,6 @@
 
 
-## Olá! Eu sou a Cláudia Santana.
+<h1>Olá, eu sou a Cláudia. </h1>
 
 - 🌱 Estudando Desenvolvimento de Software Multiplataforma
 - 😄 Pronouns: ela/dela
