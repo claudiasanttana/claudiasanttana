@@ -6,7 +6,7 @@
 </picture>
 
 ##
-<h1>Olá, eu sou a Cláudia. </h1>
+
 
 - 🌱 Estudando Desenvolvimento de Software Multiplataforma
 - :heart_eyes: Amante da Tecnologia
