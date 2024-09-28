@@ -1,7 +1,7 @@
 
 <picture>
   <img
-    src="https://readme-typing-svg.herokuapp.com/?color=7&theme=35&center=true&width=1000&lines=Hello,+I%27m+Cláudia!"
+    src="https://readme-typing-svg.herokuapp.com/?color=true&theme=dracula=35&center=true&width=1000&lines=Hello,+I%27m+Cláudia!"
   />
 </picture>
 
