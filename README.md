@@ -1,12 +1,12 @@
 
 <picture>
   <img
-    src="https://readme-typing-svg.herokuapp.com/?color=a6a6a6&size=35&center=true&width=1000&lines=Hello,+I%27m+Cláudia!"
+    src="https://readme-typing-svg.herokuapp.com/?color=dracula=35&center=true&width=1000&lines=Hello,+I%27m+Cláudia!"
   />
 </picture>
 
 ##
-- 🌱 Estudando Desenvolvimento de Software Multiplataforma
+- 🌱 Estudando Desenvolvimento de Software Multiplataforma  a6a6a6&size
 - :heart_eyes: Amante da Tecnologia
 - 😄 Pronouns: ela/dela
 
