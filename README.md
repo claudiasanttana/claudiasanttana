@@ -6,7 +6,7 @@
 </picture>
 
 ##
-- 🌱 Estudando Desenvolvimento de Software Multiplataforma  a6a6a6&size7&theme compact&langs true&theme=dracula
+- 🌱 Estudando Desenvolvimento de Software Multiplataforma  
 - :heart_eyes: Amante da Tecnologia
 - 😄 Pronouns: ela/dela
 
