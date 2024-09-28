@@ -6,8 +6,6 @@
 </picture>
 
 ##
-
-
 - 🌱 Estudando Desenvolvimento de Software Multiplataforma
 - :heart_eyes: Amante da Tecnologia
 - 😄 Pronouns: ela/dela
